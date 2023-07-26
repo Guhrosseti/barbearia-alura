@@ -4,15 +4,15 @@ Este projeto foi desenvolvido através dos cursos da Alura, com este curso apren
 
 ## Design Mobile (428px) da Barbearia Alura
 
-![Design Mobile](design mobile Barbearia Alura)
+![Design Mobile](https://github.com/Guhrosseti/barbearia-alura/blob/main/readme-imagens/Barbearia-Alura-Mobile-428px.png)
 
 ## Design Tablet (1024px) da Berbearia Alura
 
-![Design Tablet](design tablet Barbearia Alura)
+![Design Tablet](https://github.com/Guhrosseti/barbearia-alura/blob/main/readme-imagens/Barbearia-Alura-Tablet-1024px.png)
 
 ## Design Desktop (1728px) da Barbearia Alura
 
-![Design Desktop](design desktop Barbearia Alura)
+![Design Desktop](https://github.com/Guhrosseti/barbearia-alura/blob/main/readme-imagens/Barbearia-Alura-Desktop-1728px.png)
 
 
 ## Cursos realizados para chegar a este design final.
