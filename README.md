@@ -55,7 +55,7 @@ Este projeto foi desenvolvido através dos cursos da Alura, com este curso apren
 
 ## Link para acessar projeto publicado:
 
-### [https://link para o projeto publicado](link para baarbearia alura github pages)
+### [https://link para o projeto publicado](https://guhrosseti.github.io/barbearia-alura/)
 
 ## Feito por:
 
